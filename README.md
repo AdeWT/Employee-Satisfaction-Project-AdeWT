@@ -13,7 +13,7 @@ Celerium asks 3 things:
 2. Who are the employees that are least satisfied in Celerium?
 3. How does salary play a role in employee satisfaction in Celerium?
 
-The data is of survey done by the author and Celerium (data is obtained from [kaggle](https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis/)
+The data is of survey done by the author and Celerium (data is obtained from [kaggle](https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis/), and the data exploration and analysis were done using Python, especially Pandas, Statistics, Scipy, Matplotlib, and Seaborn, and dashboarding is done in Tableau. 
 
 ---
 
