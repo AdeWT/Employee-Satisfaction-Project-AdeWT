@@ -6,7 +6,6 @@
 
 
 # Preface
----
 The author is an HR Consultant working in a project for Celerium. Celerium had done their own research on company performance, and is now interested in increasing employee satisfaction to increase company performance.
 
 Celerium asks 3 things:
