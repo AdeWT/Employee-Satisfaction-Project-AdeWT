@@ -33,5 +33,5 @@ The contrasts and other discoveries can be seen on the dashboard [here.](https:/
 
 # Post-Data Analysis and Visualization
 
-Report were then made with all the relevant result and insight. You can see the report [here.](https://github.com/AdeWT/Employee-Satisfaction-Project-AdeWT/blob/main/ESP_presentation_slides.pdf)
+Report were then made with all the relevant results and insights. You can see the report [here.](https://github.com/AdeWT/Employee-Satisfaction-Project-AdeWT/blob/main/ESP_presentation_slides.pdf)
 
